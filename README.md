@@ -1,0 +1,4 @@
+# ManualGrade
+
+Without automatic tests.
+
